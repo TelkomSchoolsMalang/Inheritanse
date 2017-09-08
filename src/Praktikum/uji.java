@@ -17,6 +17,6 @@ public class uji {
     
     a.test();
     b.test();
-    b.test("Mutiara");
+    b.test("Dito");
     }
 }
